@@ -1,0 +1,53 @@
+.shawarma{
+    border: 5px solid red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 80px;
+    font-size: 100px;
+    padding: 3%;
+    max-height: 80px;
+}
+.rubrik{
+    background-color: aqua;
+    border: 3px solid black;
+    max-height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+}
+h1{
+    font-size: 120px;    
+}
+.orange{
+    border: 5px solid orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.pink{
+    border: 5px solid black;
+    min-height: 80px;
+    background-color: pink;
+    width: 49%;
+    text-align: center;
+}
+.yellow{
+    border: 5px solid black;
+    min-height: 80px;
+    background-color: yellow;
+    width: 49%;
+    text-align: center;
+}
+.bottn{
+    border: 2px solid yellow;
+    min-height: 80px;
+}
+p{
+    font-size: 50px;
+}
